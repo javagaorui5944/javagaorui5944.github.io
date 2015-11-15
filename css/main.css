@@ -961,7 +961,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f004cb;
+  background: #ffa2ab;
 }
 .sidebar-nav {
   margin: 0 0 20px;
@@ -1090,6 +1090,9 @@ body {
 }
 .cc-license img {
   display: inline-block;
+}
+#footer .theme-info {
+  padding-right: 10px;
 }
 @media (max-width: 767px) {
   body {
